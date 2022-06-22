@@ -1,15 +1,24 @@
-# Twitter Bot
-## Thursday : Friday's disappointing sibling.
-Project of Creating a Twitter Bot that will use OpenAI Ada or DaVinci model to post random tweets on twitter.
+# George The Bot
+
+George The Bot is a Tweeter Bot built out of fun and recreation.
+
+## Use
+
+This is a free internet. This bot can't be used. It can only be observed.
 
 ## To Do List
-- [ ] Instantiate code for twitter bot.
-- [ ] Follow https://medium.com/swlh/how-i-built-a-serverless-aws-lambda-twitter-bot-in-nodejs-in-a-single-day-6901f8df13f0 or https://dylancastillo.co/how-to-make-a-twitter-bot-for-free/ to build bot on AWS Lambda.
+- [x] Instantiate code for twitter bot.
+- [ ] Follow https://dylancastillo.co/how-to-make-a-twitter-bot-for-free/ to build bot on AWS Lambda.
 - [ ] Add support and integration of OpenAI model to create randomized tweets.
 - [ ] Add support to choose between random tweet or posting custom tweet.
 - [ ] Add control over mobile application.
 
-## Don't Forget
-- [ ] Add Budget for AWS Lambda and OpenAI.
-- [ ] Monitor costs, make sure kept in free region as long as you can.
-- [ ] Test it and find a cool name.
+## Contributing
+Pull requests are welcome. Don't be afraid to drop me a message for anything. For major changes, please open an issue first to discuss what you would like to change.
+
+## License
+[GNU GENERAL PUBLIC LICENSE](LICENSE.md)
+
+### Origin
+
+This project was created by Giorgos Vyronos, based on the guidelines of [Dylan J Castillo](https://dylancastillo.co/how-to-make-a-twitter-bot-for-free/)
