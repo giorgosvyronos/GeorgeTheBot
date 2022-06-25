@@ -1,2 +1,5 @@
 tweepy==3.9.0
 python-dotenv==0.14.0
+random-word==1.0.7
+quote==2.0.4
+pyyaml
